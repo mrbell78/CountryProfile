@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">Countryprofile</string>
+
+    <string-array name="country">
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>Pakistan</item>
+        <item>Argentina</item>
+        <item>Brazil</item>
+        <item>Belzium</item>
+        <item>Chilie</item>
+        <item>Iraq</item>
+        <item>Fizi</item>
+        <item>Canada</item>
+        <item>Egypt</item>
+        <item>Crotetia</item>
+        <item>Italy</item>
+        <item>England</item>
+        <item>Usa</item>
+
+
+    </string-array>
+    <string name="altitle">Countryprofile</string>
+    <string name="almasg">Hey! Do you want to Exit!!??</string>
+    <string name="bdpro">
+
+        Bangladesh is one of the worlds most densely populated countries, with its people crammed into a delta of rivers that empties into the Bay of Bengal.
+        Poverty is deep and widespread, but Bangladesh has in recent years reduced population growth and improved health and education.
+        Formerly East Pakistan, Bangladesh came into being only in 1971, when the two parts of Pakistan split after a bitter war which drew in neighbouring India.
+        Bangladesh spent 15 years under military rule and, although democracy was restored in 1990, the political scene remains volatile.
+        Islamist extremism has been rising in the usually tolerant country.
+        The low-lying country is vulnerable to flooding and cyclones, and stands to be badly affected by any rises in sea levels.
+
+
+    </string>
+
+
+    <string name="pakpro">
+
+        The Muslim-majority state of Pakistan was born out of the partition of the Indian sub-continent in 1947, and has faced both domestic political upheavals and regional confrontations.
+        Created to meet the demands of Indian Muslims for their own homeland, Pakistan was originally made up of two parts.
+        The east wing - present-day Bangladesh - is on the Bay of Bengal bordering India and Burma. The west wing - present-day Pakistan - stretches from the Himalayas down to the Arabian Sea.
+        The break-up of the two wings came in 1971 when the Bengali-speaking east wing seceded with help from India.
+
+
+
+    </string>
+
+    <string name="indiapro">
+
+
+
+        India is the worlds largest democracy and according to UN estimates, its population is expected to overtake Chinas in 2028 to become the worlds most populous nation.
+        As a rising economic powerhouse and nuclear-armed state, India has emerged as an important regional power.
+        But it is also tackling huge, social, economic and environmental problems.
+        Home to some of the worlds most ancient surviving civilizations, the Indian subcontinent - from the mountainous Afghan frontier to the jungles of Burma - is both vast and diverse in terms of its people, language and cultural traditions.
+
+
+    </string>
+    <string name="Argentina">
+
+        Argentina is the worlds largest democracy and according to UN estimates, its population is expected to overtake Chinas in 2028 to become the worlds most populous nation.
+        As a rising economic powerhouse and nuclear-armed state, India has emerged as an important regional power.
+        But it is also tackling huge, social, economic and environmental problems.
+        Home to some of the worlds most ancient surviving civilizations, the Indian subcontinent - from the mountainous Afghan frontier to the jungles of Burma - is both vast and diverse in terms of its people, language and cultural traditions.
+
+
+
+    </string>
+
+    <string name="Brazil">
+
+        Brazil is the worlds largest democracy and according to UN estimates, its population is expected to overtake Chinas in 2028 to become the worlds most populous nation.
+        As a rising economic powerhouse and nuclear-armed state, India has emerged as an important regional power.
+        But it is also tackling huge, social, economic and environmental problems.
+        Home to some of the worlds most ancient surviving civilizations, the Indian subcontinent - from the mountainous Afghan frontier to the jungles of Burma - is both vast and diverse in terms of its people, language and cultural traditions.
+
+
+
+    </string>
+</resources>
