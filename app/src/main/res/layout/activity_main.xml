@@ -5,17 +5,26 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:padding="15dp"
     android:layout_height="match_parent"
     tools:context="com.mrbell.countryprofile.MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:id="@+id/main_Toolbar"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:background="@color/colorPrimary"
+        >
+
+
+    </android.support.v7.widget.Toolbar>
 
     <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/rv"
-
-
-        >
+   >
 
 
     </android.support.v7.widget.RecyclerView>

@@ -2,7 +2,9 @@ package com.mrbell.countryprofile;
 
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.support.annotation.NonNull;
+import android.support.v7.widget.CardView;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -13,10 +15,12 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
+import de.hdodenhof.circleimageview.CircleImageView;
+
 public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomViewholder> {
 
     private Context context;
-    private int []img;
+    private int[] img;
     private String []name;
 
     public CustomAdapter(Context context, int[] img, String[] name) {
@@ -38,6 +42,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
 
     @Override
     public void onBindViewHolder(@NonNull CustomViewholder holder, final int position) {
+
         int imgid=img[position];
 
         holder.img.setImageResource(imgid);
@@ -55,11 +60,11 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
 
     @Override
     public int getItemCount() {
-        return img.length;
+        return name.length;
     }
 
     public class CustomViewholder extends RecyclerView.ViewHolder{
-        ImageView img;
+        CircleImageView img;
         TextView tv_name;
         LinearLayout linearLayout;
         public CustomViewholder(View itemView) {
@@ -67,7 +72,7 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.CustomView
 
             img=itemView.findViewById(R.id.img2);
             tv_name=itemView.findViewById(R.id.tv_name);
-            linearLayout=itemView.findViewById(R.id.liniarlayout);
+            linearLayout=itemView.findViewById(R.id.linearlayout);
         }
     }
 }

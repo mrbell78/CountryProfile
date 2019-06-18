@@ -1,10 +1,12 @@
 package com.mrbell.countryprofile;
 
+import android.graphics.Bitmap;
+
 import java.util.ArrayList;
 
 public class CountryData {
 
-    private int[] img;
+    private int []img;
     private String[] name;
 
     public CountryData(int[] img, String[] name) {

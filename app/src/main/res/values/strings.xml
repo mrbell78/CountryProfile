@@ -7,13 +7,13 @@
         <item>Pakistan</item>
         <item>Argentina</item>
         <item>Brazil</item>
-        <item>Belzium</item>
+        <item>Belgium</item>
         <item>Chilie</item>
         <item>Iraq</item>
         <item>Fizi</item>
         <item>Canada</item>
         <item>Egypt</item>
-        <item>Crotetia</item>
+        <item>Crotia</item>
         <item>Italy</item>
         <item>England</item>
         <item>Usa</item>
@@ -77,5 +77,53 @@
 
 
 
+    </string>
+    <string name="Belgium">
+
+        Belgium is the worlds largest democracy and according to UN estimates, its population is expected to overtake Chinas in 2028 to become the worlds most populous nation.
+        As a rising economic powerhouse and nuclear-armed state, India has emerged as an important regional power.
+        But it is also tackling huge, social, economic and environmental problems.
+        Home to some of the worlds most ancient surviving civilizations, the Indian subcontinent - from the mountainous Afghan frontier to the jungles of Burma - is both vast and diverse in terms of its people, language and cultural traditions.
+
+
+
+    </string>
+    <string name="chile">
+        There is a tale that Chileans are fond of telling tourists. When God created the world, they say, he had a little bit of everything left over: deserts, lakes, mountains, glaciers and volcanoes, so he tossed it all together and created
+        This slither of land in South America is indeed one of the most diverse in the world. From the arid and alien landscapes of Atacama Desert to the lush greenery of the Lake District, Chile has something for everyone.
+
+
+    </string>
+    <string name="iraq">
+
+        Iraq is essentially two countries, with the two main ethnic groups that live there: the Arabs and the Kurds. Because the Kurds helped the United States invade Iraq in 2003, Kurdistan autonomy is enshrined in the new Iraqi constitution. Iraqi families are usually large and family relationships are close
+
+    </string>
+    <string name="fizi">
+        Approximately 836,000 people live in Fiji and enjoy a tropical marine climate with little variation in temperature throughout the year. The countrys distinct landforms include terrain covered with abundant rainforests and coastlines with beautiful beaches.
+    </string>
+    <string name="canada">
+
+        Canada is known as a very peaceful nation with a great worldwide reputation. It often receives top spot in terms of being the best place to live for quality of life in the world, has now adopted a country-wide policy of multiculturalism and is regarded along with the UK as being one of the best places to study.
+
+    </string>
+    <string name="egypt">
+
+        Along with King Tut, perhaps no figure is more famously associated with ancient Egypt than Cleopatra VII. But while she was born in Alexandria, Cleopatra was actually part of a long line of Greek Macedonians originally descended from Ptolemy I, one of Alexander the Great’s most trusted lieutenants. The Ptolemaic Dynasty ruled Egypt from 323 to 30 B.C
+        
+    </string>
+    <string name="croatia">
+        Croatia is one of the most famous and known European countries for your summer vacation. Most of the visitors fell in love with its coast and sea, are thrilled about the food and inspired by its cultural and natural heritage. Croatians used their Glagolitic script which is the oldest Slavic script.
+    </string>
+    <string name="italy">
+        Italy is an absolute feast for the senses; it is an intense explosion of color, texture, and taste. With a special emphasis on Italys unique colors and textures, we will explore and capture what makes Italy, Italy.
+    </string>
+    <string name="england">
+
+        It is a unique country made up of four nations: England, Wales, Scotland, and Northern Ireland. England, Wales, and Scotland also make up Great Britain. Much of the north and west of the U.K. is covered in high ground, knife-edged mountain ridges separated by deep valleys.
+    </string>
+    <string name="usa">
+
+        In very recent years the USA has emerged as the sole military super power after the fall of the Soviet Empire. The military power of the USA is so overwhelming that it makes the USA unique in this regard in todays world. The USA are a military giant. Even more they sculpted the soul of the American Nation.
     </string>
 </resources>
